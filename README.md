@@ -72,8 +72,3 @@ The aim is to build an accurate and user-friendly solution that can be used in *
 
 ---
 
-## 🚀 How to Run
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/your-username/calories-burnt-prediction.git
-   cd calories-burnt-prediction
